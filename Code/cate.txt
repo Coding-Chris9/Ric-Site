@@ -1,0 +1,353 @@
+this will be where i Put all the code for the table :
+
+<tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Ric's Wings (12)</td>
+        <td>$16.99</td>
+      </tr>
+
+
+
+      combinations: 
+
+
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>1. Two Cheese Enchiladas, Mexican Rice and Refried beans.(Add pork,beef or chicken)*Add Extra Enchilda</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>2. Two Beef or Chicken Flautas, topped with Guacamole and Sour Cream. Served with Mexican Rice and refried beans. (12)</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>3. Ground Beef Burrito, Ground Beef Taco, Mexican Rice and Refried Beans</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>4. Pork Green Chile Burrito, Shredded Beef Taco, Beef/Chicken Flauta </td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Spinach Enchilada, Crispy Relleno, Black Beans and Rice</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>5. Spinach Enchilada, Crispy Relleno, Black Beans and Rice</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>6. Shredded Chicken Burrito, Shredded Chicken Taco, Rice and Beans</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>7. Poco Pollo Magnifico, Beef or Chicken Flauta, Rice and Refried Beans</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>8. Chilli Relleno, Pork Tamale, Black Beans and Rice</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>9. Cheese Enchilada, Shredded Beef Taco, Ground Beef and Bean Tostada, Rice and Refried Beans</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>10. Build You're Own Abomination! (WIP)</td>
+        <td>$16.99</td>
+      </tr>
+
+
+
+Lunch:
+
+
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>A. Taco Salad</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>B. Chicken Fajita Salad</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>C.Two Taco Combo</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>D. Fajitas (Chicken or Steak).</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>E. Poco Pollo Magnifico.</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>F. Traditional or Crispy Relleno</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>G. Stuffed Sopapilla</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>H. Folded Quesadilla</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>I. Cheese Enchilada</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>J. Fajita Tacos (Steak or/and Chicken).</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>K. Chimichanga (Chicken,Ground Beef, or Shredded Beef)</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>L. Ground Beef and Bean Tostada</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>M. !Grande Buritto!</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>N. Two or Chicken Flautas</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>O.Spinach Enchilada</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>O.Spinach Enchilada</td>
+        <td>$16.99</td>
+      </tr>
+
+      Specialties:
+
+    <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Pork Carnitas</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Mexican Hamburger</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Green Pork Chili Con Huevos</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Pollo Magnifico </td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Half & Half</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Chilli Relleno, Rice and Beans (Refried or Black)</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Crispy Rellenos</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Stuffed Sopapilla</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Margarita Fajita Pizza</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Two Taco Combo</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Spinach Enchiladas</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>!Grande Buritto!</td>
+        <td>$16.99</td>
+      </tr>
+
+      Fajitas:
+
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Flat Iron Fajitas</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Fajita Tacos</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Fajita Tacos</td>
+        <td>$16.99</td>
+      </tr>
+
+      Chimachangas:
+
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Dinner Chmicanga</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Ric's Chimicanga</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Shrimp Chimichanga</td>
+        <td>$16.99</td>
+      </tr>
+      Seafood:
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Shrimp Fajitas</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Grilled Fish of the Day</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Shrimp Enchiladas</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Shrimp Chimichanga</td>
+        <td>$16.99</td>
+    
+   
+      Soup & Salads:
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Chicken Tortilla Soup</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Chicken Caeser Wrap</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Chicken Fajita Salad</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Taco Salad</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Chicken Caesar Salad </td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Ric's Burger</td>
+        <td>$16.99</td>
+      </tr>
+
+      Alternative? Popular Items order but not on the menu Idk what to do
+    <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Ric's Burger</td>
+        <td>$16.99</td>
+      </tr>
+
+      Desert:
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Chips & Salsa</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Chilli Fries (Steak)</td>
+        <td>$16.99</td>
+      </tr>
+      
+      A La Carte
+
+    Burittos:
+    <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Burittos</td>
+        <td>$16.99</td>
+      </tr>
+    Enchilada: 
+    <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Enchilada</td>
+        <td>$16.99</td>
+      </tr>
+      Sides
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Sides</td>
+        <td>$16.99</td>
+      </tr>
+      Flautas (2)
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Flautas (2)</td>
+        <td>$16.99</td>
+      </tr>
+      Rellenos:
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Traditional Rellenos</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Crispy Rellenos</td>
+        <td>$16.99</td>
+      </tr>
+      Tamales
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Tamales</td>
+        <td>$16.99</td>
+      </tr>
+       <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Tamales / Sauce</td>
+        <td>$16.99</td>
+      </tr>
+      Tacos
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td> Tacos Meat</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td> Tacos Soft</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td> Tacos Fajita Meat</td>
+        <td>$16.99</td>
+      </tr>
+      Pork Green Chilli
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Side Pork Green Chili</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Bowl of Pork Green Chili</td>
+        <td>$16.99</td>
+      </tr>
+
+
+Deserts: 
+<tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Flan</td>
+        <td>$16.99</td>
+      </tr>
+<tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Fried Ice Cream</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Sopa Sundae</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Sopapilla</td>
+        <td>$16.99</td>
+      </tr>
+      <tr class="menu-item" data-name="Ric's Wings (12)" data-image="Wings.jpg" data-description="Delicious crispy wings served with special sauce.">
+        <td>Chocolate Mousse Pie</td>
+        <td>$16.99</td>
+      </tr>
+
